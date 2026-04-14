@@ -1,0 +1,24 @@
+I was working on the NEMA-17 gearbox base and it took a lot more effort than I expected. I opened Autodesk Fusion planning to start, since I thought I had all the measurements, but then I realized I wasn’t sure about the bolt spacing. I double checked the measurements and dimensions on amazon and other websites, even though I thought I already knew the numbers.
+Then the sketch started acting up. One constraint kept moving, and I couldn’t figure out why, so I deleted half the sketch because I was kinda annoyed. I also got distracted by a random video I saw while researching about motor mounts, and it helped a little, since it gave me the idea to clean up the edges.
+The fillets were another whole debate in my head — I kept adding them, and removing them. At one point, a feature broke, and I had to undo a bunch of things, which actually made me feel like I had no idea what I was doing. But when everything finally lined up I was mad happy.
+next up is the cyclodial gears and the special shaft for them, this part might be a lil difficult
+
+I made the shaft for the cycloidal gears. It took about an hour. I set up the main diameters, added the stepped sections, and checked the inner bore. I fixed one constraint that wasn’t lining up, then finished the extrude and verified all the dimensions, this shaft was pretty easy to make especially with the help of youtube.
+next up is the cyclodial gears, i still dont know how to make these or what to do, im just gonna pray, watch youtube, and just try not to give up :]
+
+okay, so i found out making cyclodial gears manually are pretty hard so I went searching through youtube and found this video telling you to go to github for a script to put into fusion so that it can automaticaly make me the gear
+
+After putting in the dimensions for the gears into the cycloidal gear maker, I had to apply the necessary clearances and tolerances by projecting the cycloid profile and manually offsetting the boundaries by 0.1mm. I also decided to make a generative design using fusion360 to reduce the fillament used when printing(that took about 30 minutes for each gear). After all that, I double checked, even triple checked for any mistakes, thankfully none were made.
+Im almost done with the gearbox :]
+next is the housing for the gears
+
+To be honest the housing was probably the easiest part to make of this project(besides the special shaft), since the cycloidal gear generator also created the housing for me. I checked the dimensions, adjusted the hole spacing, and made sure the center pocket matched the disc size, I also had to make sure the housing matched up with the base of the motor that I made earlier.
+After confirming everything is good, It is time to move on to the last piece of the gearbox. The End Cap, which covers the box. This one shouldn’t take me that long.
+
+to be honest I didnt expect the cad design for the end cap to take more than 1 hour. While making the end cap, something didn’t line up correctly in the sketch, so I had to redo part of it. 
+I also had to adjust the clearances around the mounting holes to make sure it fit over the housing. 
+Fixing those things is what made the whole thing take about two hours.Now its time for the arms, I haven't come up with a design so it might take a few hours, but in the mean time ill make a image showing how to put together the gearbox in order and what your gonna need.
+
+
+
+
