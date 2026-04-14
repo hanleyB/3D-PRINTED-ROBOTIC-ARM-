@@ -33,3 +33,10 @@ MR137ZZ Bearings,7x13x4mm shielded bearings,2,$18.58,Amazon
 
 M3 Aluminum Spacers,3.1mm ID x 5mm OD x 10mm L,2,$14.78,Amazon
 
+found this diagram on how to wire the motors im just power each driver in parallel
+<img width="728" height="410" alt="image" src="https://github.com/user-attachments/assets/923e99cd-86bc-4814-86b0-44ac2633978a" />
+
+
+<img width="728" height="410" alt="image" src="https://github.com/user-attachments/assets/910565c9-30e1-42fa-812e-7b0b054f80a8" />
+
+
